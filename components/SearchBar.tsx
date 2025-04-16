@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   cancelText: {
-    color: "#CCFF00",
+    color: "#1DB954",
     fontSize: 16,
   },
 });

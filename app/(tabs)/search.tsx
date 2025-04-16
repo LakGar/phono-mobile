@@ -199,7 +199,7 @@ const SearchScreen = () => {
           <IconSymbol
             name="exclamationmark.triangle"
             size={40}
-            color="#CCFF00"
+            color="#1DB954"
           />
           <Text style={styles.errorText}>{error}</Text>
         </View>
@@ -306,7 +306,7 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
   year: {
-    color: "#CCFF00",
+    color: "#1DB954",
     fontSize: 14,
     marginBottom: 4,
   },
